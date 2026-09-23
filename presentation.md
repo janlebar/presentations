@@ -1,125 +1,113 @@
 <!-- .slide: class="title-slide centered" -->
 # <span class="icon-blue"></span> Jan Lebar
-## Razvijalec spletnih aplikacij
+## Web Application Developer
 
 <div style="margin-top: 2em; font-size: 1.3em; color: #bdc3c7; font-style: italic;">
-Grafični oblikovalec in razvijalec — Prijava na micro1
+Graphic Designer and Developer — Application to micro1
 </div>
 
 ---
 
-## <span class="icon-blue"></span> O meni
+## <span class="icon-blue"></span> About Me
 
 <div class="highlight-box">
-<strong>Grafični oblikovalec in razvijalec</strong> s strastjo do sodobnih tehnologij, razvoja spletnih aplikacij in optimizacije.
+<strong>Graphic designer and developer</strong> with a passion for modern technologies, web application development, and optimization.
 </div>
 
-- <span class="icon-blue"></span> Izkušnje na področju <b>front-end in back-end</b> razvoja
-- <span class="icon-blue"></span> Delo s Python, Flask, FastAPI, Next.js, React, Vue.js in drugimi sodobnimi spletnimi tehnologijami
-- <span class="icon-blue"></span> Kombinacija <b>tehničnih in oblikovalskih veščin</b> za dragocen prispevek vaši ekipi
+- <span class="icon-blue"></span> Experience across <b>front-end and back-end</b> development
+- <span class="icon-blue"></span> Work with Python, Flask, FastAPI, Next.js, React, Vue.js, and other modern web technologies
+- <span class="icon-blue"></span> A combination of <b>technical and design skills</b> for a valuable contribution to your team
 
-### Izobrazba
-- <span class="icon-green"></span> Fakulteta za naravoslovje (Faculty of Natural Sciences)
-- <span class="icon-green"></span> Magisterij — Liverpool, Združeno kraljestvo
+### Education
+- <span class="icon-green"></span> Faculty of Natural Sciences
+- <span class="icon-green"></span> Master's degree — Liverpool, United Kingdom
 
 ---
 
-## <span class="icon-blue"></span> Zakaj micro1
+## <span class="icon-blue"></span> Why micro1
 
 <div class="highlight-box">
-micro1 je <b>vodilni AI podatkovni laboratorij</b> za učenje frontier modelov in ocenjevanje AI agentov. Strokovnjaki prispevajo svoje raznoliko predmetno znanje na področjih, kot so finance, zdravstvo, STEM inženiring in drugo.
+micro1 is the <b>leading AI data lab</b> for training frontier models and evaluating AI agents. Experts contribute their diverse subject matter knowledge across domains such as finance, healthcare, STEM engineering, and more.
 </div>
 
-- <span class="icon-blue"></span> micro1 pretvarja znanje iz resničnega sveta v <b>visokokakovostne podatke za učenje, evalvacije in povratne zanke</b>, ki izboljšujejo, kako se AI sistemi učijo, sklepajo in delujejo
-- <span class="icon-blue"></span> Platforma prepoznava in preverja vrhunske talente prek <b>AI zaposlovalca</b>, kar omogoča kakovostne strokovne prispevke v velikem obsegu
-- <span class="icon-blue"></span> Cilj: <b>omogočiti 1 milijardi ljudi smiselno delo</b> z uporabo svojega znanja za AI — micro1 gradi človeško inteligentno plast za frontier AI
-- <span class="icon-green"></span> Iskan profil: <b>Frontend Developer (React)</b> — React.js in JavaScript, contractor, delo na daljavo
+- <span class="icon-blue"></span> micro1 transforms real-world expertise into <b>high-quality training data, evaluations, and feedback loops</b> that improve how AI systems learn, reason, and perform
+- <span class="icon-blue"></span> The platform identifies and vets top talent through an <b>AI recruiter</b>, enabling high-quality expert contributions at scale
+- <span class="icon-blue"></span> Mission: <b>enable 1 billion people to do meaningful work</b> by applying their expertise to AI — micro1 is building the human intelligence layer for frontier AI
+- <span class="icon-green"></span> Role profile: <b>Frontend Developer (React)</b> — React.js and JavaScript, contractor, remote
 
-Pri micro1 bi želel delati predvsem zato, ker združuje področja, ki me trenutno najbolj zanimajo — programiranje, AI in razvoj produktov.
+I want to work at micro1 mainly because it brings together the fields that interest me most right now — programming, AI, and product development.
 
-Moja prednost je, da nisem klasičen developer. Pred programiranjem sem več let delal na področju oblikovanja, spletnih strani, UX-a in vizualne komunikacije. Zato imam precej dobro razumevanje, kako uporabnik vidi in uporablja nek produkt, ne samo kako je ta tehnično zgrajen.
+My advantage is that I am not a classic developer. Before programming, I spent several years working in design, websites, UX, and visual communication. That gives me a solid understanding of how a user sees and uses a product, not just how it is technically built.
 
-Danes se vse bolj osredotočam na razvoj in imam izkušnje tako z backendom kot frontendom, predvsem s Pythonom, FastAPI, JavaScriptom, TypeScriptom, Reactom, Vuejem in SQL-om. Zanimivo mi je, da lahko svoje znanje oblikovanja zdaj povežem s programiranjem in ustvarjam produkte, ki niso samo funkcionalni, ampak so tudi dobro premišljeni in uporabniku prijazni.
+Today I am increasingly focused on development, and I have experience in both backend and frontend, primarily with Python, FastAPI, JavaScript, TypeScript, React, Vue, and SQL. What excites me is that I can now combine my design knowledge with programming and create products that are not only functional but also well thought out and user-friendly.
 
-Pri micro1 me posebej privlači delo na realnem AI produktu in možnost, da s svojim domenskim znanjem neposredno prispevam k učenju naslednjih generacij AI sistemov. Predhodne izkušnje z AI niso potrebne — pomembno je znanje, ki ga prinašam.
+At micro1 I am especially drawn to working on a real AI product and to the opportunity to directly contribute my domain knowledge to training the next generation of AI systems. No prior AI experience is required — what matters is the knowledge I bring.
 
-Mislim, da lahko ravno zaradi kombinacije teh znanj ekipi ponudim nekaj drugačnega od nekoga, ki prihaja samo iz klasičnega programerskega ozadja.
+I believe that precisely because of this combination of skills, I can offer the team something different from someone who comes from a purely classic programming background.
 
 ---
 
-## <span class="icon-blue"></span> Vloga — Frontend Developer (React)
-
-<div class="highlight-box">
-V tej vlogi bom svoje znanje uporabil za pomoč pri učenju naslednjih generacij AI sistemov. Moje delo bo oblikovalo, kako se modeli učijo, sklepajo in delujejo prek kakovostnih vnosov iz resničnega sveta.
-</div>
-
-- <span class="icon-blue"></span> <b>Tip zaposlitve:</b> Contractor
-- <span class="icon-blue"></span> <b>Lokacija:</b> Delo na daljavo (remote)
-- <span class="icon-green"></span> Predhodne izkušnje z AI niso potrebne — <b>domensko znanje je tisto, kar šteje</b>
-
----
-
-## <span class="icon-blue"></span> Ključne veščine
+## <span class="icon-blue"></span> Key Skills
 
 <div class="feature-grid">
 
 <div class="feature-card">
-<h3><span class="icon-blue"></span> Spletne tehnologije</h3>
+<h3><span class="icon-blue"></span> Web Technologies</h3>
 HTML, CSS, JavaScript
 </div>
 
 <div class="feature-card">
-<h3><span class="icon-blue"></span> Programiranje in ogrodja</h3>
+<h3><span class="icon-blue"></span> Programming and Frameworks</h3>
 Python, Flask, FastAPI, React, Next.js, Angular, Vue.js, Nuxt
 </div>
 
 <div class="feature-card">
-<h3><span class="icon-blue"></span> Backend in API</h3>
-Razvoj spletnih aplikacij in API-jev s Python, Flask in FastAPI
+<h3><span class="icon-blue"></span> Backend and API</h3>
+Building web applications and APIs with Python, Flask, and FastAPI
 </div>
 
 <div class="feature-card">
-<h3><span class="icon-blue"></span> Podatkovne baze</h3>
-SQL, PostgreSQL, SQLite in SQLAlchemy
+<h3><span class="icon-blue"></span> Databases</h3>
+SQL, PostgreSQL, SQLite, and SQLAlchemy
 </div>
 
 <div class="feature-card">
-<h3><span class="icon-blue"></span> SEO in optimizacija</h3>
-Osnovni in tehnični SEO, optimizacija spletnih aplikacij in vektorske podatkovne baze za vsebino v slovenščini
+<h3><span class="icon-blue"></span> SEO and Optimization</h3>
+Basic and technical SEO, web application optimization, and vector databases for Slovenian-language content
 </div>
 
 <div class="feature-card">
-<h3><span class="icon-blue"></span> AI in podatki</h3>
-Integracija AI, obdelava podatkov in spletno strganje (web scraping) s Python in Cheerio
+<h3><span class="icon-blue"></span> AI and Data</h3>
+AI integration, data processing, and web scraping with Python and Cheerio
 </div>
 
 </div>
 
 ---
 
-## <span class="icon-blue"></span> Izpolnjene zahteve
+## <span class="icon-blue"></span> Requirements Met
 
 <div class="two-column">
 
 <div class="feature-card">
-<h3><span class="icon-blue"></span> Zahtevane veščine</h3>
+<h3><span class="icon-blue"></span> Required Skills</h3>
 <ul>
-<li>Ekspertna raven <b>React.js in JavaScript</b></li>
-<li>Odgovorne, uporabniku osredotočene spletne aplikacije</li>
-<li>Močna pisna in ustna komunikacija, timski duh</li>
-<li>Razhroščevanje, optimizacija zmogljivosti in združljivost brskalnikov</li>
-<li>Integracija z <b>RESTful API-ji</b> in storitvami tretjih oseb</li>
-<li>Globoko razumevanje <b>HTML5, CSS3</b> in sodobnih frontend orodij</li>
-<li>Sled o dostavi kompleksnih projektov v distribuiranih ekipah</li>
+<li>Expert-level <b>React.js and JavaScript</b></li>
+<li>Responsive, user-centric web applications</li>
+<li>Strong written and verbal communication, collaborative mindset</li>
+<li>Debugging, performance tuning, and browser compatibility</li>
+<li>Integration with <b>RESTful APIs</b> and third-party services</li>
+<li>Deep understanding of <b>HTML5, CSS3</b>, and modern frontend tooling</li>
+<li>Track record of delivering complex projects in distributed teams</li>
 </ul>
 </div>
 
 <div class="feature-card">
-<h3><span class="icon-green"></span> Prednostne kvalifikacije</h3>
+<h3><span class="icon-green"></span> Preferred Qualifications</h3>
 <ul>
-<li>Poznavanje drugih ogrodij (Vue, Angular)</li>
-<li>Knjižnice za upravljanje stanja in testna ogrodja</li>
-<li>Izkušnje z dostopnimi (accessible) spletnimi aplikacijami</li>
+<li>Familiarity with other frameworks (Vue, Angular)</li>
+<li>State management libraries and testing frameworks</li>
+<li>Experience building accessible web applications</li>
 </ul>
 </div>
 
@@ -127,17 +115,17 @@ Integracija AI, obdelava podatkov in spletno strganje (web scraping) s Python in
 
 ---
 
-## <span class="icon-blue"></span> Projekt — Handyman Platform
+## <span class="icon-blue"></span> Project — Handyman Platform
 
-Spletna platforma, ki prek uporabniku prijazne aplikacije povezuje <b>ponudnike storitev in stranke</b>.
+A web platform that connects <b>service providers and customers</b> through a user-friendly application.
 
 - <span class="icon-blue"></span> <b>Backend:</b> Python, Flask
 - <span class="icon-blue"></span> <b>ORM:</b> SQLAlchemy
-- <span class="icon-blue"></span> <b>Podatkovna baza:</b> PostgreSQL
+- <span class="icon-blue"></span> <b>Database:</b> PostgreSQL
 - <span class="icon-blue"></span> <b>CSS:</b> Tailwind CSS
-- <span class="icon-blue"></span> <b>Varnost:</b> UUID4 in ItsDangerous
-- <span class="icon-blue"></span> <b>Platforma:</b> Fly.io
-- <span class="icon-green"></span> Vključuje vektorske funkcije za vsebino v slovenščini
+- <span class="icon-blue"></span> <b>Security:</b> UUID4 and ItsDangerous
+- <span class="icon-blue"></span> <b>Platform:</b> Fly.io
+- <span class="icon-green"></span> Includes vector features for Slovenian-language content
 
 <div style="margin-top: 0.6em;">
 <a href="https://handyman.fly.dev" style="color: #3498db;">handyman.fly.dev</a>
@@ -145,17 +133,17 @@ Spletna platforma, ki prek uporabniku prijazne aplikacije povezuje <b>ponudnike 
 
 ---
 
-## <span class="icon-blue"></span> Projekt — Side-Effect
+## <span class="icon-blue"></span> Project — Side-Effect
 
-Aplikacija React/Next.js za prikaz informacij o <b>stranskih učinkih zdravil</b>.
+A React/Next.js application for displaying information about <b>medication side effects</b>.
 
 - <span class="icon-blue"></span> <b>Frontend:</b> React, Next.js, Tailwind CSS
-- <span class="icon-blue"></span> <b>Vizualizacija podatkov:</b> Chart.js
-- <span class="icon-blue"></span> <b>Spletno strganje:</b> Cheerio in Python
-- <span class="icon-blue"></span> <b>Podatkovna baza:</b> SQLite
+- <span class="icon-blue"></span> <b>Data visualization:</b> Chart.js
+- <span class="icon-blue"></span> <b>Web scraping:</b> Cheerio and Python
+- <span class="icon-blue"></span> <b>Database:</b> SQLite
 - <span class="icon-blue"></span> <b>AI:</b> Gemini 2.0 Flash
-- <span class="icon-blue"></span> <b>Platforma:</b> AWS Amplify
-- <span class="icon-green"></span> Python skripte zbirajo in obdelujejo podatke — deluje z lokalnim SQLite in zunanjimi spletnimi stranmi
+- <span class="icon-blue"></span> <b>Platform:</b> AWS Amplify
+- <span class="icon-green"></span> Python scripts collect and process data — works with local SQLite and external websites
 
 <div style="margin-top: 0.6em;">
 <a href="https://main.dr8zddyqlf34o.amplifyapp.com/" style="color: #3498db;">main.dr8zddyqlf34o.amplifyapp.com</a>
@@ -163,34 +151,34 @@ Aplikacija React/Next.js za prikaz informacij o <b>stranskih učinkih zdravil</b
 
 ---
 
-## <span class="icon-blue"></span> Kaj prinašam
+## <span class="icon-blue"></span> What I Bring
 
-- <span class="icon-blue"></span> Močno ozadje na področju <b>grafičnega oblikovanja</b>, reševanja problemov in komunikacije
-- <span class="icon-blue"></span> K razvoju pristopam skozi <b>uporabniško izkušnjo</b> in <b>vizualno oblikovanje</b>
-- <span class="icon-blue"></span> Nenehno širim znanje sodobnega spletnega razvoja
-- <span class="icon-green"></span> Python, FastAPI, API, podatkovne baze, integracija AI in optimizacija spletnih aplikacij
-
----
-
-## <span class="icon-blue"></span> Največji karierni dosežek
-
-- <span class="icon-blue"></span> Zadnji projekt je vedno najpomembnejši — in to je <b>Behandier</b>.
-- <span class="icon-green"></span> Celovit produkt, razvit od začetka do konca: Next.js, Prisma, PostgreSQL, Stripe, moje delo.
-
-
+- <span class="icon-blue"></span> Strong background in <b>graphic design</b>, problem solving, and communication
+- <span class="icon-blue"></span> I approach development through <b>user experience</b> and <b>visual design</b>
+- <span class="icon-blue"></span> I continuously expand my knowledge of modern web development
+- <span class="icon-green"></span> Python, FastAPI, APIs, databases, AI integration, and web application optimization
 
 ---
 
-## <span class="icon-blue"></span> Behandier — Predstavitev
+## <span class="icon-blue"></span> Biggest Career Achievement
+
+- <span class="icon-blue"></span> The latest project is always the most important — and that is <b>Behandier</b>.
+- <span class="icon-green"></span> A complete product, built from start to finish: Next.js, Prisma, PostgreSQL, Stripe, my work.
+
+
+
+---
+
+## <span class="icon-blue"></span> Behandier — Overview
 
 <div class="highlight-box">
-Celovita tržnica, ki povezuje lastnike nepremičnin s preverjenimi izvajalci — iskanje, rezervacija, klepet, plačilo.
+A complete marketplace connecting property owners with verified tradespeople — search, booking, chat, payment.
 </div>
 
-- <span class="icon-blue"></span> Predstavljajte si <b>»Airbnb za mojstre«</b>
-- <span class="icon-blue"></span> Uporabniki najdejo izvajalce na interaktivnem zemljevidu
-- <span class="icon-blue"></span> Izvajalci upravljajo svojo razpoložljivost in pridobivajo naročila
-- <span class="icon-green"></span> Monetiziramo tok povpraševanj (lead flow)
+- <span class="icon-blue"></span> Think of it as <b>"Airbnb for handymen"</b>
+- <span class="icon-blue"></span> Users find tradespeople on an interactive map
+- <span class="icon-blue"></span> Tradespeople manage their availability and win jobs
+- <span class="icon-green"></span> We monetize the lead flow
 
 <div style="margin-top: 0.6em;">
 <a href="https://behandier.com" style="color: #3498db;">behandier.com</a>
@@ -198,97 +186,97 @@ Celovita tržnica, ki povezuje lastnike nepremičnin s preverjenimi izvajalci �
 
 ---
 
-## <span class="icon-blue"></span> Behandier — Kaj platforma počne danes
+## <span class="icon-blue"></span> Behandier — What the Platform Does Today
 
-- <span class="icon-blue"></span> <b>Dvostranska tržnica:</b> lastniki objavljajo potrebe; izvajalci gradijo profile s fotografijami, storitvami, razpoložljivostjo in območji delovanja
-- <span class="icon-blue"></span> <b>Iskanje na zemljevidu</b> (Leaflet) z zaznavo mesta/geolokacije — poiščite izvajalce v bližini
-- <span class="icon-blue"></span> <b>Klepet v realnem času</b> — pogovori, število neprebranih sporočil, izmenjava datotek/slik, iskanje stikov
-- <span class="icon-blue"></span> <b>Razporejanje in projekti</b> — potrditev terminov, termini, sledenje projektom, sodelovalni prostori
-- <span class="icon-blue"></span> <b>Vgrajena monetizacija</b> — Stripe checkout za naročnine na povpraševanja in premium objave izvajalcev
-- <span class="icon-blue"></span> <b>Plast zaupanja</b> — vloge, priljubljeni, podatki o ocenah, admin panel, vsebinske strani (blog, FAQ, cenik, navodila, pogoji)
-- <span class="icon-green"></span> <b>Večjezičnost</b> že v osnovi (next-intl) — pripravljeno za nove trge
+- <span class="icon-blue"></span> <b>Two-sided marketplace:</b> owners post needs; tradespeople build profiles with photos, services, availability, and service areas
+- <span class="icon-blue"></span> <b>Map search</b> (Leaflet) with city/geolocation detection — find tradespeople nearby
+- <span class="icon-blue"></span> <b>Real-time chat</b> — conversations, unread message counts, file/image exchange, contact search
+- <span class="icon-blue"></span> <b>Scheduling and projects</b> — appointment confirmation, time slots, project tracking, collaborative workspaces
+- <span class="icon-blue"></span> <b>Built-in monetization</b> — Stripe checkout for lead subscriptions and premium tradesperson listings
+- <span class="icon-blue"></span> <b>Trust layer</b> — roles, favorites, ratings data, admin panel, content pages (blog, FAQ, pricing, guides, terms)
+- <span class="icon-green"></span> <b>Multilingual</b> by design (next-intl) — ready for new markets
 
 ---
 
-## <span class="icon-blue"></span> Behandier — Ena platforma, dva odjemalca
+## <span class="icon-blue"></span> Behandier — One Platform, Two Clients
 
 <div class="two-column">
 
 <div class="feature-card">
-<h3><span class="icon-blue"></span> Spletna aplikacija</h3>
-Celotna izkušnja Next.js
+<h3><span class="icon-blue"></span> Web Application</h3>
+The full Next.js experience
 </div>
 
 <div class="feature-card">
-<h3><span class="icon-blue"></span> Mobilni API</h3>
-Celotna <b>/api/mobile/*</b> površina — avtentikacija (register/login/refresh/social tokens), profili, projekti, sodelovanja in sporočila — že poganja mobilno aplikacijo Expo
+<h3><span class="icon-blue"></span> Mobile API</h3>
+The entire <b>/api/mobile/*</b> surface — authentication (register/login/refresh/social tokens), profiles, projects, collaborations, and messages — already powers an Expo mobile app
 </div>
 
 </div>
 
 <div class="highlight-box">
-Ena koda, en avtentikacijski sistem, oba svetova.
+One codebase, one auth system, both worlds.
 </div>
 
 ---
 
-## <span class="icon-blue"></span> Behandier — Inženirski poudarki
+## <span class="icon-blue"></span> Behandier — Engineering Highlights
 
-- <span class="icon-blue"></span> <b>Next.js 15 App Router + React 19</b> — Server Components, streaming, sodoben sklad
-- <span class="icon-blue"></span> <b>TypeScript od začetka do konca</b>, API-ji preverjeni z Zod, Prisma + PostgreSQL
-- <span class="icon-blue"></span> <b>Better Auth</b> z rotacijo JWT access/refresh — seje za web in mobile
-- <span class="icon-blue"></span> <b>Nadgradnja za produkcijo:</b> Cloudflare edge → Traefik load balancer → horizontalno razširljive Node instance → Postgres
-- <span class="icon-blue"></span> <b>Stripe webhooks</b> + idempotentna sinhronizacija po uspehu — plačila narejena pravilno
-- <span class="icon-green"></span> Pripravljeni OpenTelemetry kavlji za opazljivost, Jest testni paket, ESLint/oxfmt
-
----
-
-## <span class="icon-blue"></span> Behandier — Zakaj je pripravljen za zmago
-
-- ✅ Monetizacija je že vgrajena (povpraševanja = prihodki od prvega dne)
-- ✅ Web + mobile iz enega backend-a — brez podvajanja dela
-- ✅ Geo-zavedno, i18n-pripravljeno → širitev na nova mesta/države je konfiguracija, ne koda
-- ✅ Infrastruktura zasnovana za horizontalno razširljivost (Traefik LB, brezstanjske Node instance)
-- 🚀 Naslednji koraki: nadzorne plošče opazljivosti, avtomatizacija CI/CD, multi-region
+- <span class="icon-blue"></span> <b>Next.js 15 App Router + React 19</b> — Server Components, streaming, a modern stack
+- <span class="icon-blue"></span> <b>End-to-end TypeScript</b>, APIs validated with Zod, Prisma + PostgreSQL
+- <span class="icon-blue"></span> <b>Better Auth</b> with JWT access/refresh rotation — sessions for web and mobile
+- <span class="icon-blue"></span> <b>Production setup:</b> Cloudflare edge → Traefik load balancer → horizontally scalable Node instances → Postgres
+- <span class="icon-blue"></span> <b>Stripe webhooks</b> + idempotent post-success sync — payments done right
+- <span class="icon-green"></span> OpenTelemetry hooks ready for observability, Jest test suite, ESLint/oxfmt
 
 ---
 
-## <span class="icon-blue"></span> Behandier — Specifikacija
+## <span class="icon-blue"></span> Behandier — Why It's Ready to Win
+
+- ✅ Monetization is already built in (leads = revenue from day one)
+- ✅ Web + mobile from one backend — no duplicated work
+- ✅ Geo-aware, i18n-ready → expanding to new cities/countries is configuration, not code
+- ✅ Infrastructure designed for horizontal scalability (Traefik LB, stateless Node instances)
+- 🚀 Next steps: observability dashboards, CI/CD automation, multi-region
+
+---
+
+## <span class="icon-blue"></span> Behandier — Specification
 
 <div class="spec-table">
 
-| Plast | Tehnologija |
+| Layer | Technology |
 | --- | --- |
-| Edge / CDN | Cloudflare — proxied A records, origin cert za Full (strict) |
+| Edge / CDN | Cloudflare — proxied A records, origin cert for Full (strict) |
 | Load balancer / proxy | Traefik v3.7.6 (host binary, Go 1.25) |
-| Aplikacijski strežnik | Next.js 15 (App Router) + React 19, TypeScript, Node.js 20, next start na :3000, systemd enota nextjs-app |
-| Podatkovna baza | PostgreSQL 18-alpine (Docker, docker-compose.yml, port 5432, volumen pgdata) |
+| Application server | Next.js 15 (App Router) + React 19, TypeScript, Node.js 20, next start on :3000, systemd unit nextjs-app |
+| Database | PostgreSQL 18-alpine (Docker, docker-compose.yml, port 5432, volume pgdata) |
 | ORM | Prisma 6 |
-| Avtentikacija | Better Auth (auth.ts, middleware.ts) + JWT, OAuth (Google/Facebook), Expo plugin za mobile |
-| Plačila | Stripe (checkout + webhooks na app/api/stripe/*) |
-| E-pošta | Mailgun (lib/mail.ts) |
-| Shramba | S3 / Wasabi / Vercel Blob (STORAGE_PROVIDER) |
+| Authentication | Better Auth (auth.ts, middleware.ts) + JWT, OAuth (Google/Facebook), Expo plugin for mobile |
+| Payments | Stripe (checkout + webhooks at app/api/stripe/*) |
+| Email | Mailgun (lib/mail.ts) |
+| Storage | S3 / Wasabi / Vercel Blob (STORAGE_PROVIDER) |
 | i18n | next-intl (i18n/, messages/) |
-| UI | Tailwind 4, Radix UI, Leaflet zemljevidi, jotai |
-| Mobile | Expo integracija (Expo_integration/), klice na /api/mobile/* |
-| Health check | GET /api/mobile/health — brez auth/DB, vrne {ok: true} (dober healthCheck cilj za Traefik LB) |
-| Testiranje/orodja | Jest, ESLint, oxfmt |
+| UI | Tailwind 4, Radix UI, Leaflet maps, jotai |
+| Mobile | Expo integration (Expo_integration/), calls to /api/mobile/* |
+| Health check | GET /api/mobile/health — no auth/DB, returns {ok: true} (a good healthCheck target for Traefik LB) |
+| Testing/tooling | Jest, ESLint, oxfmt |
 
 </div>
 
 ---
 
-## <span class="icon-blue"></span> Poveživa se
+## <span class="icon-blue"></span> Let's Connect
 
 <div class="highlight-box">
-Z veseljem bi podrobneje predstavil svoje izkušnje in projekte.
+I would be glad to walk you through my experience and projects in more detail.
 </div>
 
-- <span class="icon-blue"></span> <b>Telefon:</b> +386 31 581 040
-- <span class="icon-blue"></span> <b>E-pošta:</b> janstefanlebar@gmail.com
-- <span class="icon-blue"></span> <b>Portfolio:</b> <a href="https://different-janlebar.vercel.app/" style="color: #3498db;">different-janlebar.vercel.app</a> — Portfolio spletna stran, zgrajena z <b>Vue.js</b> in <b>Nuxt</b>
-- <span class="icon-green"></span> <b>CV</b> na voljo na zahtevo
+- <span class="icon-blue"></span> <b>Phone:</b> +386 31 581 040
+- <span class="icon-blue"></span> <b>Email:</b> janstefanlebar@gmail.com
+- <span class="icon-blue"></span> <b>Portfolio:</b> <a href="https://different-janlebar.vercel.app/" style="color: #3498db;">different-janlebar.vercel.app</a> — portfolio site built with <b>Vue.js</b> and <b>Nuxt</b>
+- <span class="icon-green"></span> <b>CV</b> available on request
 
 <div style="margin-top: 1em; text-align: center; color: #95a5a6; font-style: italic;">
-Hvala — Jan Lebar, Razvijalec spletnih aplikacij
+Thank you — Jan Lebar, Web Application Developer
 </div>
